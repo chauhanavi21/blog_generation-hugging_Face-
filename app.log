@@ -1,0 +1,1 @@
+2024-03-18 17:32:29,311 - ERROR - An error occurred: BasePromptTemplate.invoke() got an unexpected keyword argument 'input_text'
