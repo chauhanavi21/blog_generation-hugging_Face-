@@ -1,0 +1,1 @@
+I have not uploaded the model due to its size but the model i used is llama-2-7b-chat.ggmlv3.q8_0.bin . in the project create a models folder and put this model in that folder. You can download this model from hugging face
